@@ -1,7 +1,5 @@
----
-title: "README"
-output: github_document
----
+README
+================
 
 # Expression-Based Classifier for Risk Stratification in TaLG Bladder Cancer
 

@@ -5,7 +5,7 @@ README
 
 Author: Giuliano Banco
 
-Assignment 1 for MBB 505: Problem-Based Learning in Bioinformatics
+Assignment 2 for MBB 505: Problem-Based Learning in Bioinformatics
 
 R version 4.4.2 (2024-10-31)
 
